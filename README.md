@@ -5,7 +5,7 @@ A new Flutter project.
 ## Getting Started
 This project is a starting point for a Flutter application.
 
-1. <h1>default is english</h1> <br/>
+**<h2>1. default is english</h2>** <br/>
 ![img1 1](https://github.com/user-attachments/assets/01e01bb6-fa9f-4f87-9289-8ea03119a130)
 
 3. Select "french language" <br/>

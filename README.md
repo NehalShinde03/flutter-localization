@@ -3,7 +3,7 @@
 **A new Flutter project.**
 
 
-**<h2>1. default is english</h2>** <br/>
+**<h2>1. default is english language</h2>** <br/>
 ![img1 1](https://github.com/user-attachments/assets/01e01bb6-fa9f-4f87-9289-8ea03119a130)
 
 <br/>**<h2>2. Select "french language"</h2>** <br/>
